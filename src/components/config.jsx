@@ -1,7 +1,7 @@
 // in config.js
 import { createChatBotMessage } from "react-chatbot-kit";
 
-const botName = "Your Personal Assistant";
+const botName = "Your Personal Assistant.";
 
 const config = {
   initialMessages: [createChatBotMessage(`Hi! I'm ${botName}`)],
